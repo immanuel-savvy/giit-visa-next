@@ -1,0 +1,111 @@
+@media (max-width: 1000px) {
+  .for_top_info {
+    margin-top: 0 !important;
+  }
+}
+
+@media (min-width: 1000px) {
+  .for_top_info {
+    margin-top: 100px !important;
+  }
+}
+
+.article_footer_ul {
+  margin-block-start: 0 !important;
+  margin-block-end: 0 !important;
+  padding-inline-start: 0 !important;
+}
+
+.fixed_on_page_box {
+  position: fixed;
+  bottom: 15px;
+  left: 15px;
+  cursor: pointer;
+  z-index: 99999999;
+}
+
+.review-course-clp {
+  border: 1px solid #fff;
+  height: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  min-height: 190px;
+  background: #fff;
+  box-shadow: 4px 6px 5px #f3f3f3;
+}
+
+.review-course-clp {
+  height: 220px !important;
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+  padding: 0 !important;
+}
+
+#banner_video {
+  -ms-overflow-style: none !important;
+  scrollbar-width: none !important;
+}
+
+#banner_video::-webkit-scrollbar {
+  display: none !important;
+}
+
+.col-11::-webkit-scrollbar {
+  display: none !important;
+}
+
+.gallery_pager {
+  justify-content: center;
+  display: flex;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.gallery_pager:hover {
+  background-color: #ccc;
+}
+
+#my_video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* My Style */
+
+.my_header_style {
+  color: #fff !important;
+}
+.my_header_style_init {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
+.my_header_style_init span {
+  color: #000 !important;
+}
+
+.my_header_style {
+  background-color: #fff !important;
+  color: #fff !important;
+}
+
+.my_header_style span {
+  color: #fff !important;
+}
+
+.my_header_style ul.nav-menu li {
+  color: #fff !important;
+}
+
+.combo_hover {
+  background-color: #0a85d9 !important;
+  color: #fff !important;
+  border-radius: 10px;
+}

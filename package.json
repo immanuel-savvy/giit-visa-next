@@ -1,0 +1,33 @@
+{
+  "name": "giit-visa-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "blurhash": "^2.0.5",
+    "bootstrap": "^5.2.3",
+    "next": "14.0.2",
+    "react": "^18",
+    "react-blurhash": "^0.3.0",
+    "react-bootstrap": "^2.8.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18",
+    "react-ga": "^3.3.1",
+    "react-ga4": "^2.1.0",
+    "react-lazy-load-image-component": "^1.6.0",
+    "react-markdown": "^8.0.7",
+    "react-paystack": "^4.0.3",
+    "react-player": "^2.12.0",
+    "react-router": "^6.15.0",
+    "reactstrap": "^9.2.0",
+    "remark-gfm": "^3.0.1",
+    "semitter": "^1.2.1",
+    "swiper": "^9.3.2",
+    "web-vitals": "^3.4.0"
+  }
+}
